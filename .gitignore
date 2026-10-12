@@ -21,6 +21,9 @@ build/
 .DS_Store
 Thumbs.db
 
+# Environment / secrets
+.env
+
 # Project specific - don't commit user data
 data/users.json
 
